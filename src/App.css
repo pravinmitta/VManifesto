@@ -1,0 +1,101 @@
+body {
+  /* padding: 20px 25px; */
+  background: #f7f7f7 !important;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.irIdto{
+  /* width: 90% !important; */
+  /* height: 100% !important; */
+  left: 5% !important;
+}
+.rsc-ts-bubble{
+  background: #ffffff;
+    color: #4d4f52;
+    /* font-weight: 600; */
+    font-family: sans-serif;
+    font-size: inherit;
+    min-width: 70%;
+}
+.fMcZCH{
+  background: #2278bb;
+  color: #fff !important;
+  min-width: 70px;
+    text-align: center;
+    padding: 6px;
+    font-weight: 600;
+}
+/* .hvWyFD{
+  background: #ec9337;
+    color: white;
+    width: 88px;
+    text-align: center;
+    padding: 6px;
+    font-weight: 600;
+
+} */
+.logo_launch{
+  position: relative;
+  height: 110px;
+  margin-top: 10px;
+}
+.logi {
+  text-align: center;
+}
+.rsc-container{
+  margin-top:30px;
+  border-radius: 0 !important;
+}
+.kFPviT{
+  background: #e07427e3 !important;
+  color: white;
+  min-width: 100px;
+}
+
+
+.rsc-header{
+  /* background: #154e96e3; */
+  background: #e07427e3;
+}
+.rsc-header-title {
+  margin: 0;
+  font-size: 19px;
+  font-weight: 600;
+  text-align: center;
+  font-family: sans-serif;
+  width: 100%;
+}
+
+
+.rsc-content{
+  /* background-image: url('./bg_pattern.jpg'); */
+  background: #fff;
+
+  background-repeat: round space;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
